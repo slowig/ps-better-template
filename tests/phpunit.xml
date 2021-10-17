@@ -1,0 +1,10 @@
+<phpunit bootstrap="bootstrap.php">
+    <php>
+        <ini name="display_errors" value="true"/>
+    </php>
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>Unit</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

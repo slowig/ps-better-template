@@ -1,0 +1,5 @@
+company.module.example_controller:
+  path: modulename/groups
+  methods: [GET]
+  defaults:
+    _controller: 'Company\Module\Controller\ExampleController::indexAction'

@@ -1,0 +1,5 @@
+services:
+  _defaults:
+    public: true
+  company.module.legacy_language:
+    class: Language

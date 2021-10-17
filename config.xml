@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>wo_gitversion</name>
+	<displayName><![CDATA[WO Git Version ]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Simple module by Grzegorz Słowik]]></description>
+	<author><![CDATA[Grzegorz Słowik for Saketos]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
